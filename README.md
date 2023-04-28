@@ -2,4 +2,4 @@
 
 Simple project for building executable JAR files
 
-You find a executable ready JAR file in the "dist" folder
+You find a executable ready JAR file in the "bin" folder
